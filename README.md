@@ -22,7 +22,11 @@ The Scikit-Learn CountVectorizer module was used, which was configured to do the
 #### Regression Model
 A gradient boosted decision tree model was used, namely the sklearn.ensemble.GradientBoostingRegressor module, with the following parameters:
 * 500 estimators
-* 
+* Learning rate of 0.05
+* Max depth of 10
+
+Resulting in a R^2 of 0.509 using 3-fold CV.
+
 
 ## Contributors
 * Stephanos Kantzidis
