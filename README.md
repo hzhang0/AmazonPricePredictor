@@ -6,6 +6,9 @@ An application that predicts the price of an item given its image and a short de
 * Allows a consumer to determine the appropriate price for an item, without having to do any prior research.
 * Allows a merchant to choose which image, in the consumer's eyes, is of greatest value.
 
+## Sample Output
+![alt text](https://user-images.githubusercontent.com/13950182/30253535-63ccb180-9655-11e7-9f08-8c1b3aed7119.png)
+
 ## Pipeline
 ![alt text](https://user-images.githubusercontent.com/13950182/30246098-14ab44be-95be-11e7-9d7f-849aa3a84092.png)
 
